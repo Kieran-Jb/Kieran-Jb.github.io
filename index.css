@@ -17,7 +17,7 @@
 
 .nav-bar{
     display: flex;
-    outline: rgb(152, 209, 19) 1px solid;
+   
     justify-content: center;
     background-color: rgb(36, 32, 32);
     width: 100%;
